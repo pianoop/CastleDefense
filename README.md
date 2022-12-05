@@ -54,7 +54,10 @@ pygame 라이브러리 사용
 
 ## :books: 실행하는 방법
 
-CastleDefense/CastleDefense.exe 를 실행시켜주세요!
+:floppy_disk: [다운링크](https://drive.google.com/file/d/10xyv-oDd1yOVUpgVBT0zMJVMqiKQQuCp/view?usp=share_link)에서 폴더 내의 CastleDefense.exe를 실행시키거나
+
+game_code/game_main.py를 python으로 실행시키면 됩니다
+
 <br><br>  
 
 ## 스포일러 주의!!  
