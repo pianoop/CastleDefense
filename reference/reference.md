@@ -1,4 +1,6 @@
-<출처>
+<출처>  
+(gamecode폴더가 기준 위치입니다!)  
+
 1. Cane, Cannon, Cannonball , PyThony, tornado (CC0)
 친구가 그려줬습니다!
 
