@@ -54,7 +54,7 @@ pygame 라이브러리 사용
 
 ## :books: 실행하는 방법
 
-game 폴더의 파일들을 받아 game_main.py를 파이썬으로 실행해주세요.
+CastleDefense/CastleDefense.exe 를 실행시켜주세요!
 <br><br>  
 
 ## 스포일러 주의!!  
